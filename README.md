@@ -3,41 +3,76 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-_Software is a program or set of programs containing instructions that provides the desired functionality. _Engineering is the process of designing and building something that serves a particular purpose and finds a cost-effective solution to problems.
+
+ Software is a program or set of programs containing 
+ instructions that provides the desired functionality.
+ 
+ Engineering is the process of designing and building something that serves a particular
+  purpose and finds a cost-effective solution to problems.
 
 Explain what software engineering is and discuss its importance in the technology industry.
-_Software engineering is a computer science discipline that enables users to design, develop, test, and maintain a software applications that meets the users needs.
-_Importance of software engineering in the technology industry
+
+Software engineering is a computer science discipline that enables users to design, 
+develop, test, and maintain a software applications that meets the users needs.
+
+Importance of software engineering in the technology industry
 a. Quality and Reliability:
-application of engineering principles by software engineers ensures that software applications are robust, functions are correctly under various conditions, can handle large volumes of data, and minimize system crashes and errors. 
+application of engineering principles by software engineers ensures
+ that software applications are robust, functions are correctly under
+  various conditions, can handle large volumes of data, and minimize system crashes and errors. 
 b. Efficiency and Scalability:
-Software engineering practices allow for the development of systems that can adapt to growing user bases and evolving requirements, enabling businesses to scale their operations without compromising performance. 
+Software engineering practices allow for the development of systems
+ that can adapt to growing user bases and evolving requirements, 
+ enabling businesses to scale their operations without compromising performance. 
 c. Innovation and New Products:
-Software engineers are at the forefront of developing new technologies and applications, enabling companies to create innovative products and services that differentiate them in the market. 
+Software engineers are at the forefront of developing new technologies and 
+applications, enabling companies to create innovative products and services that differentiate them in the market. 
 d. User-Centric Design:
-Software engineering emphasizes understanding user needs and designing intuitive interfaces, leading to better user experiences and increased customer satisfaction. 
+Software engineering emphasizes understanding user needs and designing intuitive
+ interfaces, leading to better user experiences and increased customer satisfaction. 
 e. Security and Data Protection:
-With cyber threats becoming increasingly prevalent, software engineers play a vital role in incorporating security measures to protect sensitive data and prevent unauthorized access. 
+With cyber threats becoming increasingly prevalent, software engineers play a 
+vital role in incorporating security measures to protect sensitive data and prevent unauthorized access. 
 f. Cost Optimization:
-By utilizing well-defined development methodologies and processes, software engineering helps to minimize development costs and improve project timelines. 
+By utilizing well-defined development methodologies and processes, software 
+engineering helps to minimize development costs and improve project timelines. 
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 Key Mile stones:
-a. software engineering has transitioned from being considered a craft to being considered an engineering discipline where the field has matured and grown more formalized and structured.The field has shifted its focus from relying on established processes and methods. In early days software engineering was considered a craft while in today’s world Software Engineering acts as an Engineering Discipline because everyone can learn Software designing and coding irrespective of whether they are pursuing a degree or not.
+a. software engineering has transitioned from being considered a craft to being 
+considered an engineering discipline where the field has matured and grown more
+ formalized and structured.The field has shifted its focus from relying on established
+  processes and methods. In early days software engineering was considered a craft while
+   in today’s world Software Engineering acts as an Engineering Discipline because 
+   everyone can learn Software designing and coding irrespective of whether they are pursuing a degree or not.
 b. Cloud Computing:
-The evolution of cloud computing platforms allowed for scalable and on-demand access to computing resources, transforming software deployment and management. 
+The evolution of cloud computing platforms allowed for scalable and on-demand access 
+to computing resources, transforming software deployment and management. 
 c. Object-Oriented Programming (OOP):
-The introduction of OOP concepts like classes, objects, inheritance, and polymorphism revolutionized software design by enabling modularity and code reusability. 
+The introduction of OOP concepts like classes, objects, inheritance, and polymorphism 
+revolutionized software design by enabling modularity and code reusability. 
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Software development life cycle (SDLC) is a methodology that defines the entire procedure of software development step-by-step from planning, design, implementation, testing, deployment, to maintenance.  The goal of the SDLC life cycle model is to deliver high-quality, maintainable software that meets the user’s requirements. SDLC in software engineering models outlines the plan for each stage so that each stage of the software development model can perform its task efficiently to deliver the software at a low cost within a given time frame that meets users requirements. 
+
+Software development life cycle (SDLC) is a methodology that defines the 
+entire procedure of software development step-by-step from planning, design, 
+implementation, testing, deployment, to maintenance.  The goal of the SDLC life 
+cycle model is to deliver high-quality, maintainable software that meets the user’s
+ requirements. SDLC in software engineering models outlines the plan for each stage 
+ so that each stage of the software development model can perform its task efficiently 
+ to deliver the software at a low cost within a given time frame that meets users requirements. 
+
 Phases of Software Developement Cycle
 a. planning
-This is the stage where a developer perfoms requirement analisys from the customer, Document the requirements, and Create a Software Requirement Specification (SRS) document. 
+This is the stage where a developer perfoms requirement analisys from the customer, 
+Document the requirements, and Create a Software Requirement Specification (SRS) document. 
 b. defining
-At this stage all the requirements for the target software are specified. These requirements get approval from customers, market analysts, and stakeholders by utilizing SRS (Software Requirement Specification).in simple terms this is a document that specifies everything needed to be defined and created during the entire project cycle. 
+At this stage all the requirements for the target software are specified. These requirements 
+get approval from customers, market analysts, and stakeholders by utilizing SRS 
+(Software Requirement Specification).in simple terms this is a document that specifies 
+everything needed to be defined and created during the entire project cycle. 
 c. designing
 At this stage a developer Outlines the application's user interfaces, system interfaces, network requirements, and databases and Converts the SRS document into a logical structure
 d. building/ developement face
@@ -70,6 +105,31 @@ Building a mobile app: When developing a mobile app, Agile would be beneficial t
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Software Developer: A software developer is a professional who creates, designs, develops, tests, and maintains software applications. They use programming languages to write code that instructs computers to perform specific tasks. 
+Roles:
+ a. Design, develop, test, and maintain software applications - Write clean, efficient, and well-documented code
+ b. Collaborate with team members to identify and prioritize project requirements.
+ Responsibilities: 
+  a. Develop high-quality software products 
+  b. Troubleshoot and debug code issues 
+  c. Participate in code reviews and ensure adherence to coding standards 
+  d. Stay up-to-date with industry trends and emerging technologies
+
+Quality Assurance Engineer: A Quality Assurance (QA) Engineer is a professional responsible for ensuring the quality of software products. They play a crucial role in testing and validating software applications to identify and prevent defects before they reach users. 
+Roles:
+a. Ensure software products meet quality, security, and functionality standards 
+b. Develop and execute testing plans, cases, and scripts 
+c. Identify and report defects, and collaborate with developers to resolve issues 
+Responsibilities:  
+a. Conduct manual and automated testing 
+b. Create and maintain testing documentation and reports 
+c. Participate in requirements gathering and provide input on testability 
+d. Collaborate with developers to improve overall product quality 
+
+Project Manager: A Project Manager is a professional responsible for overseeing and coordinating the execution of projects. They ensure that projects are completed on time, within budget, and to the desired quality standards. 
+Roles: 
+a. Lead and coordinate software development projects 
+b.  Plan, organize, and control project resources, timelines, and budgets
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
