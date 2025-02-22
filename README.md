@@ -56,8 +56,7 @@ revolutionized software design by enabling modularity and code reusability.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
-Software development life cycle (SDLC) is a methodology that defines the 
-entire procedure of software development step-by-step from planning, design, 
+Software development life cycle (SDLC) is a methodology that defines the /n entire procedure of software development step-by-step from planning, design, 
 implementation, testing, deployment, to maintenance.  The goal of the SDLC life 
 cycle model is to deliver high-quality, maintainable software that meets the user’s
  requirements. SDLC in software engineering models outlines the plan for each stage 
