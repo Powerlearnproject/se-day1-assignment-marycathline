@@ -62,9 +62,7 @@ The introduction of OOP concepts like classes, objects, inheritance, and polymor
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
-Software development life cycle (SDLC) is a methodology that defines the entire procedure of software development step-by-step from planning, design, implementation, testing, deployment, to maintenance.  The goal of the SDLC life cycle model is to deliver high-quality, maintainable software that meets the user’s requirements. SDLC in software engineering models outlines the plan for each stage 
-so that each stage of the software development model can perform its task efficiently to deliver the software at a low cost within a given time frame that meets users requirements. 
-
+Software development life cycle (SDLC) is a methodology that defines the entire procedure of software development step-by-step from planning, design, implementation, testing, deployment, to maintenance.  The goal of the SDLC life cycle model is to deliver high-quality, maintainable software that meets the user’s requirements. SDLC in software engineering models outlines the plan for each stage so that each stage of the software development model can perform its task efficiently to deliver the software at a low cost within a given time frame that meets users requirements.
 Phases of Software Developement Cycle
 
 a. planning
@@ -92,15 +90,12 @@ e. testing
 At this stage a developers ensures the software meets specified requirements and functions properly. they also identify and resolve any defects,Perform unit, system, and user acceptance testing
 
 f. deployment and Maintaenance
+At this stage a developer moves the software from the testing environment to the operating or industrial environment and ensures the software is ready for distribution.
+a developer also monitors the software to ensure proper operation and report and respond to bugs and defects discovered in Production.
 
-At this stage a developer moves the software from the testing environment to the operating or industrial environment and ensures the software is ready for distribution.a developer also monitors the software to ensure proper operation and report and respond to bugs and defects discovered in Production.
 
-
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
-Agile refers to an iterative and flexible project management approach where work is broken down into small, manageable units with continuous feedback from stakeholders, while Waterfall is a linear, sequential methodology where each project phase must be fully completed before moving to the next, with less flexibility for changes during development. 
-
-Waterfall methodology breaks down software development into isolated phases that flow into each other, while Agile methodology advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate._Agile refers to an iterative and flexible project management approach where work is broken down into small, manageable units with continuous feedback from stakeholders, while Waterfall is a linear, sequential methodology where each project phase must be fully completed before moving to the next, with less flexibility for changes during development. 
+_Waterfall methodology breaks down software development into isolated phases that flow into each other, while Agile methodology advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
 Comparison and Contrast:
 
 a. Development Flow
