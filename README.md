@@ -184,4 +184,4 @@ write for me an application letter.
  write for a cover letter for a sofware development position.
   
   importance of improved prompt:
-  it is  clear, specific, and provide enough context for the model to understand what you am asking
+  it is  clear, specific, and provide enough context for the model to understand what you am asking.
